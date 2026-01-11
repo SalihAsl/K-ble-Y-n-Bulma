@@ -1,2 +1,2 @@
-# K-ble-Y-n-Bulma
+# Kıble-Yonu-Bulma
 Web Site
